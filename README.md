@@ -7,12 +7,12 @@
 </div>
   <br>
   
-## ./Projects.sh
+# cd Projects
 
-### ./Packages.sh
-`#` <b>[DCLI](https://github.com/iArthDev/DCLI)<br>
-`#` <b>[myJDB](https://github.com/iArthDev/myJDB)
+## cd Packages
+`#` <b>./[DCLI](https://github.com/iArthDev/DCLI)<br>
+`#` <b>./[myJDB](https://github.com/iArthDev/myJDB)
 
-### ./Tools.sh
- ## Coming Soon
+## cd Tools
+ ### Coming Soon
   
