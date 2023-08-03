@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="https://media.discordapp.net/attachments/909184711795028038/1136584087830802493/Banner.png?width=959&height=320">
 <h1>Abdullah Al'Jauish</h1>
   <p>New to open-sourcing, I do software and websites.</p>
 <b><p><p><b>
