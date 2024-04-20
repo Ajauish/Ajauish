@@ -7,6 +7,11 @@
 <img src="https://myreadme.vercel.app/api/embed/ajauish?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 </div>
 
+# Projects
+- [Infinity Network Website](https://in8.network)
+- [Erum.sa Website](https://erum.sa)
+- [My Portfolio Website(Currently)](https://jauish.com)
+  
 # Languages
   [![Langs](https://skillicons.dev/icons?i=js,ts,py,dart,php,go)](https://skillicons.dev)
 
