@@ -27,7 +27,7 @@
   [![VC](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
 # Databases
-  [![DBs](https://skillicons.dev/icons?i=firebase,mysql)](https://skillicons.dev)
+  [![DBs](https://skillicons.dev/icons?i=firebase,mysql,mongodb)](https://skillicons.dev)
 
 
 # OS
