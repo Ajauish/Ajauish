@@ -4,9 +4,31 @@
   <a href="https://paypal.me/jauish">Fund me <3</a>
 <b><p><p><b>
 
-  [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,py,nodejs,bash,bootstrap,cloudflare,discord,dart,flutter,docker,express,php,mysql,git,vue,react,md,bots,firebase,workers,git,go,github,electron,linux,flask,tailwind,next,photoshop,premiere,aftereffects,audition)](https://skillicons.dev)
-
 <img src="https://myreadme.vercel.app/api/embed/ajauish?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+</div>
 
-  
-  </div>
+# Languages
+  [![Langs](https://skillicons.dev/icons?i=js,ts,py,dart,php,go)](https://skillicons.dev)
+
+# Frameworks
+
+  [![Web](https://skillicons.dev/icons?i=nodejs,flutter)](https://skillicons.dev)
+
+# Web
+  [![Web](https://skillicons.dev/icons?i=html,css,bootstrap,express,vue,react,electron,linux,flask,tailwind,next)](https://skillicons.dev)
+
+# Version Control 
+
+  [![VC](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+
+# Databases
+  [![DBs](https://skillicons.dev/icons?i=firebase,mysql)](https://skillicons.dev)
+
+
+# OS
+  [![OS](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
+
+# Software
+  [![Software](https://skillicons.dev/icons?i=photoshop,premiere,aftereffects,audition)](https://skillicons.dev)<br>
+  [![Software](https://skillicons.dev/icons?i=workers,cloudflare,docker,discord)](https://skillicons.dev)
+
