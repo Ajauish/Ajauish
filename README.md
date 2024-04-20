@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://jauish.com"><h1>Abdullah Al'Jauish</h1></a>
-  <p>Software Engineer & Full-stack Web Dev</p>
+  <p>Software Engineer & Full-stack Web Dev & Native Apps</p>
   <a href="https://paypal.me/jauish">Fund me <3</a>
 <b><p><p><b>
 
