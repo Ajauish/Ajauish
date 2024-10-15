@@ -11,7 +11,7 @@
 - [AtheerPay](https://atheerpay.com)
   
 # Languages
-  [![Langs](https://skillicons.dev/icons?i=js,ts,py,dart,php,go)](https://skillicons.dev)
+  [![Langs](https://skillicons.dev/icons?i=js,ts,py,dart,php,go,cs)](https://skillicons.dev)
 
 # Frameworks
 
