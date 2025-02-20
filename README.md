@@ -1,14 +1,12 @@
 <div align="center">
   <a href="https://jauish.com"><h1>Abdullah Al'Jauish</h1></a>
   <p>Full-stack Web Dev & Graphic Designer </p>
-  <a href="https://paypal.me/jauish">Fund me <3</a>
 <b><p><p><b>
 </div>
 
 # Projects
-- [Infinity Network Website](https://in8.network)
-- [My Portfolio Website(Currently)](https://jauish.com)
-- [AtheerPay](https://atheerpay.com)
+- [Qbyte](https://qbyte.io)
+
   
 # Languages
   [![Langs](https://skillicons.dev/icons?i=js,ts,py,dart,php,go,cs)](https://skillicons.dev)
